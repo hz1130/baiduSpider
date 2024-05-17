@@ -1,0 +1,1134 @@
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at org.json.JSONStringer.value(JSONStringer.java:261)
+	at org.json.JSONObject.writeTo(JSONObject.java:733)
+	at org.json.JSONObject.toString(JSONObject.java:701)
+	at com.baidu.mobstat.dr.d(SourceFile:387)
+	at com.baidu.mobstat.dr.a(SourceFile:214)
+	at com.baidu.mobstat.dr.a(SourceFile:30)
+	at com.baidu.mobstat.ds.run(SourceFile:180)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at org.json.JSONStringer.value(JSONStringer.java:261)
+	at org.json.JSONObject.writeTo(JSONObject.java:733)
+	at org.json.JSONObject.toString(JSONObject.java:701)
+	at com.baidu.homework.common.photo.core.a.a(SourceFile:410)
+	at com.baidu.homework.common.camera.CameraManyQuestionsActivity$a.a(SourceFile:1312)
+	at com.baidu.homework.common.camera.CameraManyQuestionsActivity$a.doInBackground(SourceFile:1264)
+	at android.os.AsyncTask$3.call(AsyncTask.java:378)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Mozilla/5.0 (Linux; Android 10; Pixel 3 Build/QQ3A.200805.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at java.util.Formatter$FormatSpecifier.printString(Formatter.java:2978)
+	at java.util.Formatter$FormatSpecifier.print(Formatter.java:2855)
+	at java.util.Formatter.format(Formatter.java:2524)
+	at java.util.Formatter.format(Formatter.java:2459)
+	at java.lang.String.format(String.java:2870)
+	at com.baidu.homework.common.ui.widget.HybridWebView.init(SourceFile:592)
+	at com.baidu.homework.common.ui.widget.HybridWebView.<init>(SourceFile:423)
+	at com.zuoyebang.widget.CacheHybridWebView.<init>(SourceFile:124)
+	at com.baidu.homework.activity.search.core.NestedHybridWebView.<init>(SourceFile:63)
+	at com.baidu.homework.activity.search.core.NestedHybridWebView.<init>(SourceFile:59)
+	at java.lang.reflect.Constructor.newInstance0(Native Method)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+	at com.baidu.homework.common.skin.base.BaseSkinActivity.createView(SourceFile:173)
+	at com.baidu.homework.common.skin.base.BaseSkinActivity.createViewFromTag(SourceFile:146)
+	at com.baidu.homework.common.skin.base.BaseSkinActivity.onCreateView(SourceFile:64)
+	at android.app.Activity.onCreateView(Activity.java:6964)
+	at android.support.v4.app.BaseFragmentActivityApi14.onCreateView(SourceFile:41)
+	at android.support.v4.app.FragmentActivity.onCreateView(SourceFile:67)
+	at android.view.LayoutInflater.tryCreateView(LayoutInflater.java:1069)
+	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:997)
+	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:961)
+	at android.view.LayoutInflater.rInflate(LayoutInflater.java:1123)
+	at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:1084)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:682)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:534)
+	at com.baidu.homework.activity.search.core.f.d(SourceFile:287)
+	at com.baidu.homework.activity.search.core.f.<init>(SourceFile:108)
+	at com.baidu.homework.activity.search.core.AbstractSearchActivity.onStart(SourceFile:395)
+	at android.app.Instrumentation.callActivityOnStart(Instrumentation.java:1432)
+	at android.app.Activity.performStart(Activity.java:7848)
+	at android.app.ActivityThread.handleStartActivity(ActivityThread.java:3294)
+	at android.app.servertransaction.TransactionExecutor.performLifecycleSequence(TransactionExecutor.java:221)
+	at android.app.servertransaction.TransactionExecutor.cycleToPath(TransactionExecutor.java:201)
+	at android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:173)
+	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2016)
+	at android.os.Handler.dispatchMessage(Handler.java:107)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+====== printStacks end ======== undefined==============================
+device=Pixel 3
+====== printStacks start ====== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at java.lang.String.valueOf(String.java:2924)
+	at java.lang.StringBuilder.append(StringBuilder.java:132)
+	at android.text.TextUtils.join(TextUtils.java:393)
+	at com.zuoyebang.baseutil.a.b(SourceFile:112)
+	at com.zuoyebang.baseutil.a.a(SourceFile:96)
+	at com.baidu.homework.base.ag.a(SourceFile:464)
+	at com.baidu.homework.base.af.a(SourceFile:131)
+	at com.baidu.homework.common.net.d.a(SourceFile:783)
+	at com.baidu.homework.common.net.a.b.w(SourceFile:187)
+	at com.android.c.c.run(SourceFile:93)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Mozilla/5.0 (Linux; Android 10; Pixel 3 Build/QQ3A.200805.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36
+====== printStacks start ====== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at java.util.Formatter$FormatSpecifier.printString(Formatter.java:2978)
+	at java.util.Formatter$FormatSpecifier.print(Formatter.java:2855)
+	at java.util.Formatter.format(Formatter.java:2524)
+	at java.util.Formatter.format(Formatter.java:2459)
+	at java.lang.String.format(String.java:2870)
+	at com.baidu.homework.common.ui.widget.HybridWebView.init(SourceFile:592)
+	at com.baidu.homework.common.ui.widget.HybridWebView.<init>(SourceFile:423)
+	at com.zuoyebang.widget.CacheHybridWebView.<init>(SourceFile:124)
+	at com.baidu.homework.activity.search.core.NestedHybridWebView.<init>(SourceFile:63)
+	at com.baidu.homework.activity.search.core.NestedHybridWebView.<init>(SourceFile:59)
+	at java.lang.reflect.Constructor.newInstance0(Native Method)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+	at com.baidu.homework.common.skin.base.BaseSkinActivity.createView(SourceFile:173)
+	at com.baidu.homework.common.skin.base.BaseSkinActivity.createViewFromTag(SourceFile:146)
+	at com.baidu.homework.common.skin.base.BaseSkinActivity.onCreateView(SourceFile:64)
+	at android.app.Activity.onCreateView(Activity.java:6964)
+	at android.support.v4.app.BaseFragmentActivityApi14.onCreateView(SourceFile:41)
+	at android.support.v4.app.FragmentActivity.onCreateView(SourceFile:67)
+	at android.view.LayoutInflater.tryCreateView(LayoutInflater.java:1069)
+	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:997)
+	at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:961)
+	at android.view.LayoutInflater.rInflate(LayoutInflater.java:1123)
+	at android.view.LayoutInflater.rInflateChildren(LayoutInflater.java:1084)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:682)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:534)
+	at android.view.LayoutInflater.inflate(LayoutInflater.java:481)
+	at android.view.View.inflate(View.java:26298)
+	at com.baidu.homework.activity.search.whole.PicManySearchActivity$8.run(SourceFile:1251)
+	at android.os.Handler.handleCallback(Handler.java:883)
+	at android.os.Handler.dispatchMessage(Handler.java:100)
+	at android.os.Looper.loop(Looper.java:214)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at org.json.JSONStringer.value(JSONStringer.java:261)
+	at org.json.JSONObject.writeTo(JSONObject.java:733)
+	at org.json.JSONObject.toString(JSONObject.java:701)
+	at com.baidu.homework.common.ui.widget.HybridWebView$i.call(SourceFile:290)
+	at com.baidu.homework.activity.web.actions.CommonWebAction.onAction(SourceFile:114)
+	at com.baidu.homework.activity.search.core.f$2.onAction(SourceFile:256)
+	at com.zuoyebang.action.HybridActionManager.runAction(SourceFile:373)
+	at com.zuoyebang.widget.CacheHybridWebView.dispatchAction(SourceFile:264)
+	at com.zuoyebang.widget.CacheHybridWebView$a.d(SourceFile:525)
+	at com.zuoyebang.common.web.s.a(SourceFile:53)
+	at com.zuoyebang.common.web.proxy.a.shouldOverrideUrlLoading(SourceFile:55)
+	at org.chromium.android_webview.AwContentsClientBridge.shouldOverrideUrlLoading(chromium-TrichromeWebViewGoogle.aab-stable-506012933:46)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:336)
+	at android.os.Looper.loop(Looper.java:174)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+====== printStacks end ======== undefined==============================
+Mozilla/5.0 (Linux; Android 10; Pixel 3 Build/QQ3A.200805.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at org.json.JSONStringer.value(JSONStringer.java:261)
+	at org.json.JSONObject.writeTo(JSONObject.java:733)
+	at org.json.JSONObject.toString(JSONObject.java:701)
+	at com.baidu.homework.common.ui.widget.HybridWebView$i.call(SourceFile:290)
+	at com.baidu.homework.activity.web.actions.CommonWebAction.onAction(SourceFile:114)
+	at com.baidu.homework.activity.search.core.f$2.onAction(SourceFile:256)
+	at com.zuoyebang.action.HybridActionManager.runAction(SourceFile:373)
+	at com.zuoyebang.widget.CacheHybridWebView.dispatchAction(SourceFile:264)
+	at com.zuoyebang.widget.CacheHybridWebView$a.d(SourceFile:525)
+	at com.zuoyebang.common.web.s.a(SourceFile:53)
+	at com.zuoyebang.common.web.proxy.a.shouldOverrideUrlLoading(SourceFile:55)
+	at org.chromium.android_webview.AwContentsClientBridge.shouldOverrideUrlLoading(chromium-TrichromeWebViewGoogle.aab-stable-506012933:46)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:336)
+	at android.os.Looper.loop(Looper.java:174)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================
+Pixel 3
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at com.zybang.nlog.core.NLog.buildPost(SourceFile:787)
+	at com.zybang.nlog.core.NStorage.report(SourceFile:181)
+	at com.zybang.nlog.core.NLog.report(SourceFile:828)
+	at com.zybang.nlog.core.NTracker.send(SourceFile:172)
+	at com.zybang.nlog.core.NTracker.command(SourceFile:348)
+	at com.zybang.nlog.core.NLog$cmd$1.run(SourceFile:486)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+====== printStacks end ======== undefined==============================

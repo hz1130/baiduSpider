@@ -1,0 +1,40 @@
+https://srw.qanda.ai/?image_key=4ad6c02d-a4a5-4b62-8433-00fdb1fa442a&video_autoplay=on&source=search&grade=5&ab_groups=eyJxYWxjdWxhdG9yX2V4cDEiOiJuZXcifQ%3D%3D%0A&features=qalculator%2Cqna_testing%2Cshare%2Csocratiq%2Cnew-search-interface%2Cvideo-solution-paywall%2Cqalculator_extended%2Cabu%2Creward-ad-exposure
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at java.lang.String.valueOf(String.java:2924)
+	at java.lang.StringBuilder.append(StringBuilder.java:132)
+	at oe0.o.m(Intrinsics.java:1)
+	at j20.b.l(QandaBaseWebViewClient.kt:1)
+	at j20.b.shouldOverrideUrlLoading(QandaBaseWebViewClient.kt:2)
+	at org.chromium.android_webview.AwContentsClientBridge.shouldOverrideUrlLoading(chromium-TrichromeWebViewGoogle.aab-stable-506007133:46)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:336)
+	at android.os.Looper.loop(Looper.java:174)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+====== printStacks end ======== undefined==============================
+https://srw.qanda.ai/?image_key=4ad6c02d-a4a5-4b62-8433-00fdb1fa442a&video_autoplay=on&source=search&grade=5&ab_groups=eyJxYWxjdWxhdG9yX2V4cDEiOiJuZXcifQ%3D%3D%0A&features=qalculator%2Cqna_testing%2Cshare%2Csocratiq%2Cnew-search-interface%2Cvideo-solution-paywall%2Cqalculator_extended%2Cabu%2Creward-ad-exposure
+====== printStacks start ====== undefined==============================
+java.lang.Throwable
+	at java.lang.String.toString(Native Method)
+	at java.lang.String.valueOf(String.java:2924)
+	at java.lang.StringBuilder.append(StringBuilder.java:132)
+	at oe0.o.m(Intrinsics.java:1)
+	at j20.b.l(QandaBaseWebViewClient.kt:1)
+	at j20.b.shouldOverrideUrlLoading(QandaBaseWebViewClient.kt:4)
+	at android.webkit.WebViewClient.shouldOverrideUrlLoading(WebViewClient.java:83)
+	at j20.b.shouldOverrideUrlLoading(QandaBaseWebViewClient.kt:3)
+	at org.chromium.android_webview.AwContentsClientBridge.shouldOverrideUrlLoading(chromium-TrichromeWebViewGoogle.aab-stable-506007133:46)
+	at android.os.MessageQueue.nativePollOnce(Native Method)
+	at android.os.MessageQueue.next(MessageQueue.java:336)
+	at android.os.Looper.loop(Looper.java:174)
+	at android.app.ActivityThread.main(ActivityThread.java:7356)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:492)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:930)
+
+====== printStacks end ======== undefined==============================

@@ -1,0 +1,117 @@
+com.baidu.nps.runtime.classloader.NPSClassloader[DexPathList[[zip file "/data/user/0/com.baidu.searchbox.lite/app_nps/com.baidu.searchbox.godeye.apk"],nativeLibraryDirectories=[/data/user/0/com.baidu.searchbox.lite/app_nps/com.baidu.searchbox.godeye/lib, /system/lib, /vendor/lib]]]
+================= info Search ================
+str1 :  FD0101
+str2 :  name=sysback&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0101","v":{"info":"name=sysback&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078551584,"qid":1659078504793,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD1901
+str2 :  name=close_plugin&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+ search completed!
+retval :  {"t":"FD1901","v":{"info":"name=close_plugin&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078551600,"qid":1659078504793,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0101
+str2 :  realTimeBlurNum=0&wordBlurNum=0&charBlurNum=0&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0101","v":{"info":"realTimeBlurNum=0&wordBlurNum=0&charBlurNum=0&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078552139,"qid":1659078504793,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0102
+str2 :  name=plugin_close&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0102","v":{"info":"name=plugin_close&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078552159,"qid":1659078504793,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0104
+str2 :  trade=null&name=cookie&httpconfig=1_1_0&from=0&callscenes=graphhome&sub_trade=QUESTION
+str3 :  1_0
+retval :  {"t":"FD0104","v":{"info":"trade=null&name=cookie&httpconfig=1_1_0&from=0&callscenes=graphhome&sub_trade=QUESTION","ts":1659078553118,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0102
+str2 :  trade=QUESTION&name=uishow&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+================= info Search ================
+str1 :  FD0104
+str2 :  trade=QUESTION&name=search&interface=conf&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+================= info Search ================
+str1 :  FD0102
+str2 :  name=plugin_invoke&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0102","v":{"info":"trade=QUESTION&name=uishow&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078553138,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+retval :  {"t":"FD0102","v":{"info":"name=plugin_invoke&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078553148,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+retval :  {"t":"FD0104","v":{"info":"trade=QUESTION&name=search&interface=conf&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078553151,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD1604
+str2 :  trade=&name=search&interface=partnerconf&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD1604","v":{"info":"trade=&name=search&interface=partnerconf&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078553330,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0104
+str2 :  trade=TRANSLATE&name=search&interface=transword&sub_trade=AIQUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0104","v":{"info":"trade=TRANSLATE&name=search&interface=transword&sub_trade=AIQUESTION&httpconfig=1_1_0","ts":1659078553553,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0104
+str2 :  trade=CHARS&name=search&interface=chars&sub_trade=AIQUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0104","v":{"info":"trade=CHARS&name=search&interface=chars&sub_trade=AIQUESTION&httpconfig=1_1_0","ts":1659078553567,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0104
+str2 :  trade=TRANSLATE&name=search&interface=detect&sub_trade=AIQUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0104","v":{"info":"trade=TRANSLATE&name=search&interface=detect&sub_trade=AIQUESTION&httpconfig=1_1_0","ts":1659078553589,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0102
+str2 :  info=camera_open_succ&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0102","v":{"info":"info=camera_open_succ&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078554048,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0103
+str2 :  dTime=1659078553049&cameraStart=1659078553338&cameraReady=1659078553979&renderStart=1659078553338&renderEnd=1659078553344&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0103","v":{"info":"dTime=1659078553049&cameraStart=1659078553338&cameraReady=1659078553979&renderStart=1659078553338&renderEnd=1659078553344&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078554084,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0101
+str2 :  name=create_short_cut&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0101","v":{"info":"name=create_short_cut&trade=QUESTION&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078554114,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0101
+str2 :  trade=QUESTION&sub_trade=QUESTION&name=select_pic_box&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0101","v":{"info":"trade=QUESTION&sub_trade=QUESTION&name=select_pic_box&httpconfig=1_1_0","ts":1659078554622,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0102
+str2 :  trade=QUESTION&sub_trade=QUESTION&name=gallery_ui&position=low&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0102","v":{"info":"trade=QUESTION&sub_trade=QUESTION&name=gallery_ui&position=low&httpconfig=1_1_0","ts":1659078554979,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0101
+str2 :  trade=QUESTION&sub_trade=QUESTION&name=select_pic_file&new_gallery=true&position=low&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0101","v":{"info":"trade=QUESTION&sub_trade=QUESTION&name=select_pic_file&new_gallery=true&position=low&httpconfig=1_1_0","ts":1659078555504,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0103
+str2 :  trade=QUESTION&sub_trade=QUESTION&name=gallery_speed&time_click=1659078554638&time_show=331&time_stay=861&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0103","v":{"info":"trade=QUESTION&sub_trade=QUESTION&name=gallery_speed&time_click=1659078554638&time_show=331&time_stay=861&httpconfig=1_1_0","ts":1659078555516,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0104
+str2 :  trade=QUESTION&name=token&interface=qptranslate_sole&rawtoken=/9j/4AAQSkZJRgABAQAAolntUbpXlxyEmjKSS1GQ53CZ/KSSinABG4SSSUH/2Q==3082024f308201b8a003020102020453db2e22300d06092a864886f70d0101050500306b310b300906035504061302434e3110300e060355040813074265696a696e673110300e060355040713074265696a696e6731133011060355040a130a426169647520496e632e31133011060355040b130a426169647520496e632e310e300c0603550403130542616964753020170d3134303830313036303532325a180f32303634303731393036303532325a306b310b300906035504061302434e3110300e060355040813074265696a696e673110300e060355040713074265696a696e6731133011060355040a130a426169647520496e632e31133011060355040b130a426169647520496e632e310e300c06035504031305426169647530819f300d06092a864886f70d010101050003818d0030818902818100a8184a7716f3c8ce7ee12205e8b3de138c66b30066d3e78191e5df8103c9b704a95d16bfa99e9850fecc288f4fd29e0110c906b8f7986dd944a7816d1a0981f762e486eee919d75efe9f8d7addc0d81d1a34133ebea9fd54d67f21fb6e8b9adb9e3ebfc638e966fec3096cb316fb7882e8b0b0954f883377b6ead78bb06eec0f0203010001300d06092a864886f70d01010505000381810039a42addcace5a57a3a2703199c784fd16b68e0e0096ff5ed1ca52e84ab5e81ac87e13b6ad05c9b01964b12aad570215e587a8ed7753d4c87f224a332f546c8641e843d5cb6a595459cb8795ccc1e30f582f26c1e32e7ecb8c758baab5f85f3c6dbc56bad35bd9ac436b9513657730b39b5e99cfbbe92f9a33007bc46417ee5a_PSNij8ZvagqP2a7gaHna_uvSillOSiKg8HJa_aGva88kvMtr91uPQIWAMozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 SP-engine/2.38.0 matrixstyle/0 lite baiduboxapp/5.28.0.10 (Baidu; P1 8.1.0) imagesearch/1.0 main/1.0 graphplugin/1.0.101659078556011000
+str3 :  1_0
+retval :  {"t":"FD0104","v":{"info":"trade=QUESTION&name=token&interface=qptranslate_sole&rawtoken=\/9j\/4AAQSkZJRgABAQAAolntUbpXlxyEmjKSS1GQ53CZ\/KSSinABG4SSSUH\/2Q==3082024f308201b8a003020102020453db2e22300d06092a864886f70d0101050500306b310b300906035504061302434e3110300e060355040813074265696a696e673110300e060355040713074265696a696e6731133011060355040a130a426169647520496e632e31133011060355040b130a426169647520496e632e310e300c0603550403130542616964753020170d3134303830313036303532325a180f32303634303731393036303532325a306b310b300906035504061302434e3110300e060355040813074265696a696e673110300e060355040713074265696a696e6731133011060355040a130a426169647520496e632e31133011060355040b130a426169647520496e632e310e300c06035504031305426169647530819f300d06092a864886f70d010101050003818d0030818902818100a8184a7716f3c8ce7ee12205e8b3de138c66b30066d3e78191e5df8103c9b704a95d16bfa99e9850fecc288f4fd29e0110c906b8f7986dd944a7816d1a0981f762e486eee919d75efe9f8d7addc0d81d1a34133ebea9fd54d67f21fb6e8b9adb9e3ebfc638e966fec3096cb316fb7882e8b0b0954f883377b6ead78bb06eec0f0203010001300d06092a864886f70d01010505000381810039a42addcace5a57a3a2703199c784fd16b68e0e0096ff5ed1ca52e84ab5e81ac87e13b6ad05c9b01964b12aad570215e587a8ed7753d4c87f224a332f546c8641e843d5cb6a595459cb8795ccc1e30f582f26c1e32e7ecb8c758baab5f85f3c6dbc56bad35bd9ac436b9513657730b39b5e99cfbbe92f9a33007bc46417ee5a_PSNij8ZvagqP2a7gaHna_uvSillOSiKg8HJa_aGva88kvMtr91uPQIWAMozilla\/5.0 (Linux; Android 4.4.2; Nexus 5 Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/30.0.0.0 Mobile Safari\/537.36 SP-engine\/2.38.0 matrixstyle\/0 lite baiduboxapp\/5.28.0.10 (Baidu; P1 8.1.0) imagesearch\/1.0 main\/1.0 graphplugin\/1.0.101659078556011000","ts":1659078556015,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0802
+str2 :  name=uploadshow&trade=QUESTION&sub_trade=QUESTION&imageSource=TOP_GALLERY&time=507&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0802","v":{"info":"name=uploadshow&trade=QUESTION&sub_trade=QUESTION&imageSource=TOP_GALLERY&time=507&httpconfig=1_1_0","ts":1659078556030,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD3404
+str2 :  trade=QUESTION&name=search&interface=qptranslate_sole&sub_trade=QUESTION&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD3404","v":{"info":"trade=QUESTION&name=search&interface=qptranslate_sole&sub_trade=QUESTION&httpconfig=1_1_0","ts":1659078556073,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
+================= info Search ================
+str1 :  FD0802
+str2 :  name=uploadfinish&trade=QUESTION&sub_trade=QUESTION&imageSource=TOP_GALLERY&time=1939&httpconfig=1_1_0
+str3 :  1_0
+retval :  {"t":"FD0802","v":{"info":"name=uploadfinish&trade=QUESTION&sub_trade=QUESTION&imageSource=TOP_GALLERY&time=1939&httpconfig=1_1_0","ts":1659078557463,"qid":1659078553104,"nt":"1_0","av":"5.28.0.10","sv":"13.6.0","btn":"home_icon","sid":"1015_1021_1040_1060_1080_1100","an":"e7e9f3247b8706518530f975bb52c98f"}}
