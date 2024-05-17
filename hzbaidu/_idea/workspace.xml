@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hzbaidu:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82cca90a-6bd1-4170-999b-12c891851777" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/local/ApacheMaven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CNwnBvsfiRVakatnUuX6D2VUTH" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hza" />
+      <recent name="com.hza.entity" />
+      <recent name="com.hza.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OkHttpClientUtils">
+    <configuration name="BaiduApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hza.api.BaiduApi" />
+      <module name="hzbaidu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hza.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hza.MyRunnable" />
+      <module name="hzbaidu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hza.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OkHttpClientUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hza.proxyUtils.OkHttpClientUtils" />
+      <module name="hzbaidu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hza.proxyUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hza.Spider" />
+      <module name="hzbaidu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hza.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hza.api.Test" />
+      <module name="hzbaidu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hza.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OkHttpClientUtils" />
+        <item itemvalue="Application.MyRunnable" />
+        <item itemvalue="Application.BaiduApi" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82cca90a-6bd1-4170-999b-12c891851777" name="Default Changelist" comment="" />
+      <created>1658656514274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658656514274</updated>
+      <workItem from="1658656517911" duration="1217000" />
+      <workItem from="1658657928437" duration="90000" />
+      <workItem from="1658658487149" duration="2749000" />
+      <workItem from="1658664087463" duration="615000" />
+      <workItem from="1658670271505" duration="1110000" />
+      <workItem from="1658714139977" duration="11615000" />
+      <workItem from="1658735089642" duration="15231000" />
+      <workItem from="1658800511160" duration="6524000" />
+      <workItem from="1658820941205" duration="4380000" />
+      <workItem from="1658888009296" duration="40224000" />
+      <workItem from="1659061356182" duration="25196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="816" key="#Project_Structure" timestamp="1658821539378">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="23" width="1024" height="816" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1658821539378" />
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1658734950682">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1658734950682" />
+    <state x="457" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1658821447284">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="231" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1658821447284" />
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1658888323578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1658888323578" />
+    <state width="1398" height="324" key="GridCell.Tab.0.bottom" timestamp="1659343461986">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1659343461986" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1658894105807" />
+    <state width="1398" height="288" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1659006591108" />
+    <state width="1398" height="288" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1659060411886" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1658912676400" />
+    <state width="1398" height="288" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1658918005361" />
+    <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1659338201292" />
+    <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1659081629287" />
+    <state width="1398" height="324" key="GridCell.Tab.0.center" timestamp="1659343461985">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="324" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1659343461985" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1658894105806" />
+    <state width="1398" height="288" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1659006591108" />
+    <state width="1398" height="288" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1659060411885" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1658912676399" />
+    <state width="1398" height="288" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1658918005360" />
+    <state width="1398" height="324" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1659338201290" />
+    <state width="1398" height="324" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1659081629286" />
+    <state width="1398" height="324" key="GridCell.Tab.0.left" timestamp="1659343461984">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="324" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1659343461984" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1658894105804" />
+    <state width="1398" height="288" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1659006591107" />
+    <state width="1398" height="288" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1659060411885" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1658912676398" />
+    <state width="1398" height="288" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1658918005359" />
+    <state width="1398" height="324" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1659338201290" />
+    <state width="1398" height="324" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1659081629285" />
+    <state width="1398" height="324" key="GridCell.Tab.0.right" timestamp="1659343461986">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="324" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1659343461986" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1658894105806" />
+    <state width="1398" height="288" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1659006591108" />
+    <state width="1398" height="288" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1659060411886" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1658912676399" />
+    <state width="1398" height="288" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1658918005360" />
+    <state width="1398" height="324" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1659338201291" />
+    <state width="1398" height="324" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1659081629287" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1659061332210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1659061332210" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1658888549908" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1658995735352" />
+    <state width="1398" height="261" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1658657059756" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1659061332210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1659061332210" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1658888549907" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1658995735351" />
+    <state width="1398" height="261" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1658657059754" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1659061332209">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1659061332209" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1658888549907" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1658995735351" />
+    <state width="1398" height="261" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1658657059753" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1659061332210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1659061332210" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1658888549907" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1658995735352" />
+    <state width="1398" height="261" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1658657059754" />
+    <state x="258" y="77" key="Maven.ArtifactSearchDialog" timestamp="1658734257052">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="77" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1658734257052" />
+    <state x="258" y="93" key="Maven.ArtifactSearchDialog/0.23.1440.816@0.23.1440.816" timestamp="1658656695634" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1658929195335">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1658929195335" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1658888478384">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1658888478384" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.23.1440.812@0.23.1440.812" timestamp="1658888237544" />
+    <state width="720" height="408" key="XDebugger.FullValuePopup/0.23.1440.816@0.23.1440.816" timestamp="1658657083211" />
+    <state x="262" y="186" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1658888641392">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="262" y="186" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1658888641392" />
+    <state x="420" y="207" width="600" height="486" key="find.popup" timestamp="1658915812486">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="420" y="207" width="600" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1658915812486" />
+    <state x="425" y="228" key="refactoring.ChangeSignatureDialog" timestamp="1658819373633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="425" y="228" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1658819373633" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1658800571110">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1658800571110" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hza/utils/OkHttpUtil.java</url>
+          <line>150</line>
+          <properties class="com.hza.utils.OkHttpUtil" method="doPost">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
